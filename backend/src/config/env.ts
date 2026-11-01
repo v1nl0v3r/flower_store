@@ -5,5 +5,8 @@ export const config = {
         password: process.env.DATABASE_PASSWORD!,
         database: process.env.DATABASE_NAME!,
     },
-    port: process.env.PORT
+    port: process.env.PORT,
+  logger: {
+      logPath: process.env.LOG_PATH!
+  }
 };

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="371b42f2-caf2-417f-ab9c-840f0772a875" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/config/jet-logger-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/flowers.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/health.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/models/flower.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/repositories/dbHealth.repo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/repositories/flowers.repository.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/routes/flowers.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/routes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/services/flowers.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/config/env.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/env.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/db/health.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/services/dbHealth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/routes/health.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/health.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="c7021670-f77e-4845-b20e-d014270e5d99" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LBRZ9q6OAHyDUgBUq9XXoJRGkW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/v1/Projects/WEB/flower_store/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "npm.install:clean.executor": "Run",
+    "npm.lint.executor": "Run",
+    "npm.run backend.executor": "Run",
+    "npm.run frontend.executor": "Run",
+    "npm.start.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "/home/v1/Projects/WEB/flower_store/backend/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/home/v1/Projects/WEB/flower_store/frontend/node_modules/typescript/lib"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/src/services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.run backend">
+    <configuration name="install:clean" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="install:clean" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run backend" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run frontend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.run frontend" />
+      <item itemvalue="npm.run backend" />
+      <item itemvalue="npm.install:clean" />
+      <item itemvalue="npm.lint" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.run backend" />
+        <item itemvalue="npm.lint" />
+        <item itemvalue="npm.install:clean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="371b42f2-caf2-417f-ab9c-840f0772a875" name="Changes" comment="" />
+      <created>1792925530476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792925530476</updated>
+      <workItem from="1792925531302" duration="5732000" />
+      <workItem from="1793024762030" duration="22454000" />
+      <workItem from="1793459303055" duration="1306000" />
+      <workItem from="1793476168645" duration="2809000" />
+      <workItem from="1793519190433" duration="27626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

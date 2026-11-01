@@ -1,23 +1,11 @@
 import { Router } from "express";
-import {getDbHealth} from "#src/db/health.ts";
+import * as healthController from "#src/controllers/health.controller.ts"
 
-const router = Router();
+const healthRouter = Router();
 
-router.get("/", (_req, res) => {
-    res.status(200).json({
-        status: "ok",
-        timestamp: new Date().toISOString(),
-    });
-});
+healthRouter.get("/", healthController.getHealth);
 
-router.get("/db", async (_req, res)=> {
-   const healthy = await getDbHealth();
-
-   res.status(healthy ? 200 : 503).json({
-       status: healthy ? "ok" : "error"
-   });
-});
+healthRouter.get("/db", healthController.getDbHealth)
 
 
-
-export default router;
+export default healthRouter;
